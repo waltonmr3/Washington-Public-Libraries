@@ -1,1 +1,2 @@
 # Washington-Public-Libraries
+This interactive bivariate web map features points displaying all the public libraries throughout Washington State. The polygon layer features the various counties throughout the state and the legend shows how many libraries there were per county. I collected the data found in the geojson files from arcGIS hub. This map is interactive showing labels that read public library. The book labels featured on this map were found on Font Awesome and then used to create a point that matched the theme of the map. 
